@@ -1,0 +1,61 @@
+
+
+
+1. Fonction1 : elle calcule la parité d’un nombre quelconque en retournant « pair » ou impair ».
+
+String parite(int nombre)
+-----------------------------------------------------------------------------------------------------------
+
+2. Fonction 2 : elle calcule la parité d’un nombre quelconque en affichant « pair » ou impair ».
+
+void parite(int nombre)
+-------------------------------------------------------------------------------------------------------------
+
+3. Fonction 3 : elle réalise une conversion d’euros en dollars et retourne le montant en dollars.
+
+double conversion(double euros)
+--------------------------------------------------------------------------------------------------------------
+
+4. Fonction 4 : elle retourne la tangente d’un angle.
+
+double tagente (double angle)
+--------------------------------------------------------------------------------------------------------------
+
+5. Fonction 5 : elle retourne la surface d’un cercle.
+
+double surfaceCercle(double rayon)
+-----------------------------------------------------------------------------------------------------------------
+
+6. Fonction 6 : elle affiche la table de multiplication d’un entier compris entre 1 et 10.
+
+void tableMulti(int nbre)
+--------------------------------------------------------------------------------------------------------------------
+
+7. Fonction 7 : elle retourne un nombre aléatoire compris entre deux valeurs.
+
+double nombreAleatoire(double min, double max)
+-----------------------------------------------------------------------------------------------------------------------
+
+8. Fonction 8 : elle affiche un rectangle de dimensions L x H.
+
+void rectangle(int l, int h)
+------------------------------------------------------------------------------------------------------------------------
+
+9. Fonction 9 : elle retourne les racines d’une équation du second degré.
+
+double[] racinequat(double a, double b, double c)
+---------------------------------------------------------------------------------------------------------------------------
+
+10. Fonction 10 : elle retourne le résultat d’une opération élémentaire (addition, soustraction, division, multiplication ou -1 en cas d’erreur.
+
+double calculette(double nb1, char operateur, double nb1)
+--------------------------------------------------------------------------------------------------------------------------
+
+11. Fonction 11 : elle réalise une conversion d’euros en dollars ou inversement et retourne le montant.
+
+double convertion (double euros, double dollars)
+-----------------------------------------------------------------------------------------------------------------------------
+
+12.Fonction 12: elle retourne le volume d’un cylindre creux.
+
+double volumeCylindreCreux(double R, double r, double h)
